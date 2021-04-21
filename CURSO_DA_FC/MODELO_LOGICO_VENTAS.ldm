@@ -74,6 +74,9 @@
             <children xsi:type="notation:Shape" xmi:id="_WSwcYKLcEeuR--UlurV_cA" type="IEEntityNonKey" element="_WSmEUKLcEeuR--UlurV_cA" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_WSwcYaLcEeuR--UlurV_cA"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="__R0MIKLiEeuR--UlurV_cA" type="IEEntityNonKey" element="__Rdm0KLiEeuR--UlurV_cA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="__R0MIaLiEeuR--UlurV_cA"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_tUS0eqBiEeuR--UlurV_cA" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_tUS0e6BiEeuR--UlurV_cA" visible="false" type="entity.ie.description.compartment">
@@ -153,6 +156,7 @@
     <attributes xmi:id="_WAkZ0KBjEeuR--UlurV_cA" name="DNI" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_eH2qAKBjEeuR--UlurV_cA" name="RAZON_SOCIAL" dataType="VARCHAR(40)"/>
     <attributes xmi:id="_WSmEUKLcEeuR--UlurV_cA" name="CUIT" dataType="INTEGER"/>
+    <attributes xmi:id="__Rdm0KLiEeuR--UlurV_cA" name="FECHA_ALTA" dataType="DATE"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_EW3YMKBjEeuR--UlurV_cA" name="DIM_COMPRADORES_PK" attributes="_1YDPgKBiEeuR--UlurV_cA" relationshipEnds="_Aw1ssaBjEeuR--UlurV_cA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_Aw1ssKBjEeuR--UlurV_cA" name="FACT_VENTAS_DIM_COMPRADORES_FK" owningEntity="_at1FEKBhEeuR--UlurV_cA">
