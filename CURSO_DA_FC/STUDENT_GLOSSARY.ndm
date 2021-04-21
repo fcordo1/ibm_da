@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:NamingModel="http:///com/ibm/db/models/naming/naming.ecore">
+  <NamingModel:NamingStandard xmi:id="_BGRsAKB1EeuR--UlurV_cA" name="STUDENT_GLOSSARY_ROOT" glossaries="_BGRsAaB1EeuR--UlurV_cA"/>
+  <NamingModel:Glossary xmi:id="_BGRsAaB1EeuR--UlurV_cA" name="STUDENT_GLOSSARY" namingStandard="_BGRsAKB1EeuR--UlurV_cA">
+    <words xmi:id="_eqMc4KB1EeuR--UlurV_cA" name="ID_NUMBER" abbreviation="ID" classification="PRIME"/>
+    <words xmi:id="_ACFOoKB2EeuR--UlurV_cA" name="EMAIL" classification="CLASS"/>
+  </NamingModel:Glossary>
+</xmi:XMI>
