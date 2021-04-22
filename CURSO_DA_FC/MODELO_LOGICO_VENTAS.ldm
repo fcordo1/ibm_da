@@ -36,6 +36,9 @@
             <children xsi:type="notation:Shape" xmi:id="_hWWbwaBiEeuR--UlurV_cA" type="IEEntityNonKey" element="_hWWbwKBiEeuR--UlurV_cA" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="_hWWbwqBiEeuR--UlurV_cA"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_8rsbMKOiEeunB77InypDCQ" type="IEEntityNonKey" element="_8rEwIKOiEeunB77InypDCQ" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8rsbMaOiEeunB77InypDCQ"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_at1FGqBhEeuR--UlurV_cA" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_at1FG6BhEeuR--UlurV_cA" visible="false" type="entity.ie.description.compartment">
@@ -149,6 +152,7 @@
     <attributes xmi:id="_coFV0KBiEeuR--UlurV_cA" name="PRECIO_UNITARIO" dataType="DECIMAL(10,3)"/>
     <attributes xmi:id="_mtW8sKBiEeuR--UlurV_cA" name="CANTIDAD" dataType="INTEGER"/>
     <attributes xmi:id="_hWWbwKBiEeuR--UlurV_cA" name="MONTO_TOTAL" dataType="DECIMAL(10,3)"/>
+    <attributes xmi:id="_8rEwIKOiEeunB77InypDCQ" name="FECHA_2" dataType="CHAR(5)"/>
     <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_Aw-2oKBjEeuR--UlurV_cA" name="ForeignKey" attributes="_mO-0EKBhEeuR--UlurV_cA" relationshipEnds="_Aw1ssqBjEeuR--UlurV_cA"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_KWEhkKBjEeuR--UlurV_cA" name="FACT_VENTAS_PK" attributes="_mO-0EKBhEeuR--UlurV_cA"/>
   </LogicalDataModel:Entity>
