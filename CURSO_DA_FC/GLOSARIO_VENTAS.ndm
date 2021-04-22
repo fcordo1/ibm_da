@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:NamingModel="http:///com/ibm/db/models/naming/naming.ecore">
+  <NamingModel:NamingStandard xmi:id="_XrWIgKLzEeuGw9V8YqwAFQ" name="NamingStandard" glossaries="_XrWIgaLzEeuGw9V8YqwAFQ"/>
+  <NamingModel:Glossary xmi:id="_XrWIgaLzEeuGw9V8YqwAFQ" name="Glossary1" namingStandard="_XrWIgKLzEeuGw9V8YqwAFQ">
+    <words xmi:id="_acJcMKLzEeuGw9V8YqwAFQ" name="PRECIO_UNITARIO" abbreviation="PU" classification="PRIME"/>
+  </NamingModel:Glossary>
+</xmi:XMI>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<xmi:XMI xmlns:datamodelversion="http://www.ibm.com/com.ibm.datatools.core/model/data/1.9.0.0" xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:LogicalDataModel="http:///com/ibm/db/models/logical/logical.ecore" xmlns:Volumetrics="http:///com/ibm/db/models/volumetrics/volumetrics.ecore" xmlns:datanotation="http:///datanotation.ecore" xmlns:ilvglnotation="http://www.ilog.com/views/8.5.0/LayoutNotationExtensionDefinition" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <LogicalDataModel:Package xmi:id="_JZ2usaOJEeuv3Lo2ZgID6w" name="Model_1" description="" targetNamespace="PRUEBA_1.ldm" children="_JaaIUKOJEeuv3Lo2ZgID6w" contents="_Jam8oKOJEeuv3Lo2ZgID6w _JakgYKOJEeuv3Lo2ZgID6w _JapY4KOJEeuv3Lo2ZgID6w _JalugKOJEeuv3Lo2ZgID6w">
+    <eAnnotations xmi:id="_JaSzkKOJEeuv3Lo2ZgID6w" source="diagram">
+      <contents xsi:type="datanotation:DataDiagram" xmi:id="_JaSzkaOJEeuv3Lo2ZgID6w" type="IE_CrowFoot" name="Display1" viewKind="ProjectExplorer" notation="IE_CrowFoot" description="">
+        <children xmi:id="_JbS5IKOJEeuv3Lo2ZgID6w" element="_Jam8oKOJEeuv3Lo2ZgID6w">
+          <children xsi:type="notation:Shape" xmi:id="_JbTgMKOJEeuv3Lo2ZgID6w" type="IEEntityName" element="_Jam8oKOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbTgMaOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbTgMqOJEeuv3Lo2ZgID6w" type="entity.ie.key.compartment" element="_Jam8oKOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbTgM6OJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbTgNKOJEeuv3Lo2ZgID6w" type="entity.ie.nonkey.compartment" element="_Jam8oKOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbTgNaOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbTgNqOJEeuv3Lo2ZgID6w" visible="false" type="entity.ie.description.compartment">
+            <children xmi:id="_JbTgN6OJEeuv3Lo2ZgID6w" type="IEEntityDescription">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbTgOKOJEeuv3Lo2ZgID6w"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbTgOaOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbTgOqOJEeuv3Lo2ZgID6w"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_JbTgO6OJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10" lineColor="0"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbTgPKOJEeuv3Lo2ZgID6w" x="17674" y="1137"/>
+        </children>
+        <children xmi:id="_JbTgPaOJEeuv3Lo2ZgID6w" element="_JakgYKOJEeuv3Lo2ZgID6w">
+          <children xsi:type="notation:Shape" xmi:id="_JbUHQKOJEeuv3Lo2ZgID6w" type="IEEntityName" element="_JakgYKOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbUHQaOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbUHQqOJEeuv3Lo2ZgID6w" type="entity.ie.key.compartment" element="_JakgYKOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbUHQ6OJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbUHRKOJEeuv3Lo2ZgID6w" type="entity.ie.nonkey.compartment" element="_JakgYKOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbUuUKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbUuUaOJEeuv3Lo2ZgID6w" visible="false" type="entity.ie.description.compartment">
+            <children xmi:id="_JbUuUqOJEeuv3Lo2ZgID6w" type="IEEntityDescription">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbUuU6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbUuVKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbUuVaOJEeuv3Lo2ZgID6w"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_JbUuVqOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10" lineColor="0"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbUuV6OJEeuv3Lo2ZgID6w" x="16033" y="5688"/>
+        </children>
+        <children xmi:id="_JbUuWKOJEeuv3Lo2ZgID6w" element="_JapY4KOJEeuv3Lo2ZgID6w">
+          <children xsi:type="notation:Shape" xmi:id="_JbUuWaOJEeuv3Lo2ZgID6w" type="IEEntityName" element="_JapY4KOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbUuWqOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbUuW6OJEeuv3Lo2ZgID6w" type="entity.ie.key.compartment" element="_JapY4KOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbUuXKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbUuXaOJEeuv3Lo2ZgID6w" type="entity.ie.nonkey.compartment" element="_JapY4KOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbVVYKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbVVYaOJEeuv3Lo2ZgID6w" visible="false" type="entity.ie.description.compartment">
+            <children xmi:id="_JbVVYqOJEeuv3Lo2ZgID6w" type="IEEntityDescription">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbVVY6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbVVZKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbVVZaOJEeuv3Lo2ZgID6w"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_JbVVZqOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10" lineColor="0"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbVVZ6OJEeuv3Lo2ZgID6w" x="2804" y="2328"/>
+        </children>
+        <children xmi:id="_JbVVaKOJEeuv3Lo2ZgID6w" element="_JalugKOJEeuv3Lo2ZgID6w">
+          <children xsi:type="notation:Shape" xmi:id="_JbVVaaOJEeuv3Lo2ZgID6w" type="IEEntityName" element="_JalugKOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbVVaqOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbVVa6OJEeuv3Lo2ZgID6w" type="entity.ie.key.compartment" element="_JalugKOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbV8cKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbV8caOJEeuv3Lo2ZgID6w" type="entity.ie.nonkey.compartment" element="_JalugKOJEeuv3Lo2ZgID6w">
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbV8cqOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbV8c6OJEeuv3Lo2ZgID6w" visible="false" type="entity.ie.description.compartment">
+            <children xmi:id="_JbV8dKOJEeuv3Lo2ZgID6w" type="IEEntityDescription">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbV8daOJEeuv3Lo2ZgID6w"/>
+            </children>
+            <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbV8dqOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_JbV8d6OJEeuv3Lo2ZgID6w"/>
+          <styles xsi:type="datanotation:TableStyle" xmi:id="_JbV8eKOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10" lineColor="0"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JbV8eaOJEeuv3Lo2ZgID6w" x="9525" y="1957"/>
+        </children>
+        <styles xsi:type="ilvglnotation:LayoutStyle" xmi:id="_JaZhQKOJEeuv3Lo2ZgID6w" graphLayoutConfiguration="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&lt;java version=&quot;1.6.0&quot; class=&quot;java.beans.XMLDecoder&quot;>&lt;object class=&quot;java.util.HashMap&quot;>&lt;void method=&quot;put&quot;>&lt;string>version&lt;/string>&lt;string>8.7.0.v20100305&lt;/string>&lt;/void>&lt;void method=&quot;put&quot;>&lt;string>layout&lt;/string>&lt;string>ilog.views.eclipse.graphlayout.runtime.hierarchical.IlvHierarchicalLayout&lt;/string>&lt;/void>&lt;/object>&lt;/java>"/>
+        <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_Ja864KOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_Ja9h8KOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_Ja-wEKOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="datanotation:DataDiagramRelationshipStyle" xmi:id="_JbAlQKOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="datanotation:DataShapeNameStyle" xmi:id="_JbBMUKOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="datanotation:DataDiagramFormattingStyle" xmi:id="_JbBzYKOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="datanotation:ConnectionLayerStyle" xmi:id="_JbH6AKOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_JbJIIKOJEeuv3Lo2ZgID6w"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_JbKWQKOJEeuv3Lo2ZgID6w"/>
+        <edges xmi:id="_JbgUgKOJEeuv3Lo2ZgID6w" element="_Ja0_EKOJEeuv3Lo2ZgID6w" source="_JbUuWKOJEeuv3Lo2ZgID6w" target="_JbVVaKOJEeuv3Lo2ZgID6w">
+          <children xmi:id="_JbgUgaOJEeuv3Lo2ZgID6w" type="relationship.ie.name" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_JbgUgqOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.name" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_JbgUg6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbgUhKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbgUhaOJEeuv3Lo2ZgID6w" type="relationship.ie.child.name" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_JbgUhqOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.childname" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_JbgUh6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbgUiKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbgUiaOJEeuv3Lo2ZgID6w" type="relationship.ie.parent.name" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_JbgUiqOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.parentname" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_JbgUi6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbgUjKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbgUjaOJEeuv3Lo2ZgID6w" type="relationship.ie.ri" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_JbgUjqOJEeuv3Lo2ZgID6w" type="IERelationship.ri" element="_Ja0_EKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_JbgUj6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbgUkKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_JbgUkaOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10" routing="Rectilinear" lineColor="0"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_JbgUkqOJEeuv3Lo2ZgID6w" points="[1984, 0, -4762, 370]$[4392, 0, -2354, 370]$[4392, -185, -2354, 185]$[4392, -370, -2354, 0]$[4736, -370, -2010, 0]"/>
+        </edges>
+        <edges xmi:id="_Jbg7kKOJEeuv3Lo2ZgID6w" element="_Ja1mIKOJEeuv3Lo2ZgID6w" source="_JbS5IKOJEeuv3Lo2ZgID6w" target="_JbVVaKOJEeuv3Lo2ZgID6w">
+          <children xmi:id="_Jbg7kaOJEeuv3Lo2ZgID6w" type="relationship.ie.name" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_Jbg7kqOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.name" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_Jbg7k6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_Jbg7lKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_Jbg7laOJEeuv3Lo2ZgID6w" type="relationship.ie.child.name" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_Jbg7lqOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.childname" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_Jbg7l6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_Jbg7mKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_Jbg7maOJEeuv3Lo2ZgID6w" type="relationship.ie.parent.name" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_Jbg7mqOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.parentname" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_Jbg7m6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_Jbg7nKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_Jbg7naOJEeuv3Lo2ZgID6w" type="relationship.ie.ri" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_Jbg7nqOJEeuv3Lo2ZgID6w" type="IERelationship.ri" element="_Ja1mIKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_Jbg7n6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_Jbg7oKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_Jbg7oaOJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10" routing="Rectilinear" lineColor="0"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_Jbg7oqOJEeuv3Lo2ZgID6w" points="[-2143, 0, 6138, -1031]$[-4206, 0, 4074, -1031]$[-4206, 502, 4074, -529]$[-4206, 1031, 4074, 0]$[-6270, 1031, 2010, 0]"/>
+        </edges>
+        <edges xmi:id="_Jbg7o6OJEeuv3Lo2ZgID6w" element="_Ja0YAKOJEeuv3Lo2ZgID6w" source="_JbTgPaOJEeuv3Lo2ZgID6w" target="_JbVVaKOJEeuv3Lo2ZgID6w">
+          <children xmi:id="_Jbg7pKOJEeuv3Lo2ZgID6w" type="relationship.ie.name" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_Jbg7paOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.name" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_Jbg7pqOJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbhioKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbhioaOJEeuv3Lo2ZgID6w" type="relationship.ie.child.name" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_JbhioqOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.childname" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_Jbhio6OJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbhipKOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbhipaOJEeuv3Lo2ZgID6w" type="relationship.ie.parent.name" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_JbiJsKOJEeuv3Lo2ZgID6w" visible="false" type="IERelationship.parentname" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_JbiJsaOJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbiJsqOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <children xmi:id="_JbiJs6OJEeuv3Lo2ZgID6w" type="relationship.ie.ri" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+            <children xmi:id="_JbiJtKOJEeuv3Lo2ZgID6w" type="IERelationship.ri" element="_Ja0YAKOJEeuv3Lo2ZgID6w">
+              <styles xsi:type="notation:FontStyle" xmi:id="_JbiJtaOJEeuv3Lo2ZgID6w"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JbiJtqOJEeuv3Lo2ZgID6w"/>
+          </children>
+          <styles xsi:type="datanotation:DataLineStyle" xmi:id="_JbiJt6OJEeuv3Lo2ZgID6w" fontName="Microsoft Sans Serif" fontHeight="10" routing="Rectilinear" lineColor="0"/>
+          <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_JbiJuKOJEeuv3Lo2ZgID6w" points="[0, -926, 5371, 2381]$[0, -3571, 5371, -264]$[-3360, -3571, 2010, -264]"/>
+        </edges>
+      </contents>
+    </eAnnotations>
+  </LogicalDataModel:Package>
+  <LogicalDataModel:Package xmi:id="_JaaIUKOJEeuv3Lo2ZgID6w" name="&lt;&lt;Domains>>" description="Domains for model Model_1" parent="_JZ2usaOJEeuv3Lo2ZgID6w"/>
+  <LogicalDataModel:Entity xmi:id="_JakgYKOJEeuv3Lo2ZgID6w" name="TIEMPO" description="" package="_JZ2usaOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja0YAaOJEeuv3Lo2ZgID6w">
+    <extensions xsi:type="Volumetrics:RecordVolumetrics" xmi:id="_JakgYaOJEeuv3Lo2ZgID6w"/>
+    <attributes xmi:id="_JakgYqOJEeuv3Lo2ZgID6w" name="FECHA" description="" dataType="DECIMAL(0,0)" required="true"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_JalHcKOJEeuv3Lo2ZgID6w" name="XPKTIEMPO" description="" attributes="_JakgYqOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja0YAaOJEeuv3Lo2ZgID6w"/>
+  </LogicalDataModel:Entity>
+  <LogicalDataModel:Entity xmi:id="_JalugKOJEeuv3Lo2ZgID6w" name="VENTAS" description="" package="_JZ2usaOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja0YAqOJEeuv3Lo2ZgID6w _Ja0_EqOJEeuv3Lo2ZgID6w _Ja1mIqOJEeuv3Lo2ZgID6w" relationships="_Ja0YAKOJEeuv3Lo2ZgID6w _Ja0_EKOJEeuv3Lo2ZgID6w _Ja1mIKOJEeuv3Lo2ZgID6w">
+    <extensions xsi:type="Volumetrics:RecordVolumetrics" xmi:id="_JalugaOJEeuv3Lo2ZgID6w"/>
+    <attributes xmi:id="_JalugqOJEeuv3Lo2ZgID6w" name="ID_VENDEDOR" description="" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_Jalug6OJEeuv3Lo2ZgID6w" name="ID_COMPRADOR" description="" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_JaluhKOJEeuv3Lo2ZgID6w" name="FECHA" description="" dataType="DECIMAL(0,0)" required="true"/>
+    <attributes xmi:id="_JamVkKOJEeuv3Lo2ZgID6w" name="MONTO_OPERACION" description="" dataType="DECIMAL(0,0)"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_JamVkaOJEeuv3Lo2ZgID6w" name="XPKVENTAS" description="" attributes="_JalugqOJEeuv3Lo2ZgID6w _Jalug6OJEeuv3Lo2ZgID6w _JaluhKOJEeuv3Lo2ZgID6w"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_Jar1IKOJEeuv3Lo2ZgID6w" name="XIF1VENTAS" description="" attributes="_JalugqOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja0_EqOJEeuv3Lo2ZgID6w"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_JauRYKOJEeuv3Lo2ZgID6w" name="XIF2VENTAS" description="" attributes="_Jalug6OJEeuv3Lo2ZgID6w" relationshipEnds="_Ja1mIqOJEeuv3Lo2ZgID6w"/>
+    <keys xsi:type="LogicalDataModel:ForeignKey" xmi:id="_JauRYaOJEeuv3Lo2ZgID6w" name="XIF3VENTAS" description="" attributes="_JaluhKOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja0YAqOJEeuv3Lo2ZgID6w"/>
+  </LogicalDataModel:Entity>
+  <LogicalDataModel:Entity xmi:id="_Jam8oKOJEeuv3Lo2ZgID6w" name="COMPRADORES" description="" package="_JZ2usaOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja1mIaOJEeuv3Lo2ZgID6w">
+    <extensions xsi:type="Volumetrics:RecordVolumetrics" xmi:id="_Jam8oaOJEeuv3Lo2ZgID6w"/>
+    <attributes xmi:id="_Jam8oqOJEeuv3Lo2ZgID6w" name="ID_COMPRADOR" description="" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_Jam8o6OJEeuv3Lo2ZgID6w" name="NOMBRE_Y_APELLIDO" description="" dataType="VARCHAR(20)"/>
+    <attributes xmi:id="_Jaox0KOJEeuv3Lo2ZgID6w" name="FECHA_NACIMIENTO" description="" dataType="DATE"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_Jaox0aOJEeuv3Lo2ZgID6w" name="XPKCOMPRADORES" description="" attributes="_Jam8oqOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja1mIaOJEeuv3Lo2ZgID6w"/>
+  </LogicalDataModel:Entity>
+  <LogicalDataModel:Entity xmi:id="_JapY4KOJEeuv3Lo2ZgID6w" name="VENDEDORES" description="" package="_JZ2usaOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja0_EaOJEeuv3Lo2ZgID6w">
+    <extensions xsi:type="Volumetrics:RecordVolumetrics" xmi:id="_JapY4aOJEeuv3Lo2ZgID6w"/>
+    <attributes xmi:id="_JapY4qOJEeuv3Lo2ZgID6w" name="ID_VENDEDOR" description="" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_JapY46OJEeuv3Lo2ZgID6w" name="NOMBRE_APELLIDO" description="" dataType="DECIMAL(0,0)"/>
+    <attributes xmi:id="_Jap_8KOJEeuv3Lo2ZgID6w" name="DOMICILIO" description="" dataType="VARCHAR(20)"/>
+    <attributes xmi:id="_Jap_8aOJEeuv3Lo2ZgID6w" name="FECHA_NACIMIENTO" description="" dataType="DATE"/>
+    <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_Jap_8qOJEeuv3Lo2ZgID6w" name="XPKVENDEDORES" description="" attributes="_JapY4qOJEeuv3Lo2ZgID6w" relationshipEnds="_Ja0_EaOJEeuv3Lo2ZgID6w"/>
+  </LogicalDataModel:Entity>
+  <LogicalDataModel:Relationship xmi:id="_Ja0YAKOJEeuv3Lo2ZgID6w" name="R/4" description="" owningEntity="_JalugKOJEeuv3Lo2ZgID6w">
+    <relationshipEnds xmi:id="_Ja0YAaOJEeuv3Lo2ZgID6w" name="R/4" description="" insertAction="RESTRICT" updateAction="RESTRICT" cardinality="ONE" entity="_JakgYKOJEeuv3Lo2ZgID6w" key="_JalHcKOJEeuv3Lo2ZgID6w"/>
+    <relationshipEnds xmi:id="_Ja0YAqOJEeuv3Lo2ZgID6w" name="" description="" verbPhrase="R/4" updateAction="RESTRICT" deleteAction="RESTRICT" cardinality="ZERO_TO_MANY" entity="_JalugKOJEeuv3Lo2ZgID6w" key="_JauRYaOJEeuv3Lo2ZgID6w"/>
+  </LogicalDataModel:Relationship>
+  <LogicalDataModel:Relationship xmi:id="_Ja0_EKOJEeuv3Lo2ZgID6w" name="R/2" description="" owningEntity="_JalugKOJEeuv3Lo2ZgID6w">
+    <relationshipEnds xmi:id="_Ja0_EaOJEeuv3Lo2ZgID6w" name="R/2" description="" insertAction="RESTRICT" updateAction="RESTRICT" cardinality="ONE" entity="_JapY4KOJEeuv3Lo2ZgID6w" key="_Jap_8qOJEeuv3Lo2ZgID6w"/>
+    <relationshipEnds xmi:id="_Ja0_EqOJEeuv3Lo2ZgID6w" name="" description="" verbPhrase="R/2" updateAction="RESTRICT" deleteAction="RESTRICT" cardinality="ZERO_TO_MANY" entity="_JalugKOJEeuv3Lo2ZgID6w" key="_Jar1IKOJEeuv3Lo2ZgID6w"/>
+  </LogicalDataModel:Relationship>
+  <LogicalDataModel:Relationship xmi:id="_Ja1mIKOJEeuv3Lo2ZgID6w" name="R/3" description="" owningEntity="_JalugKOJEeuv3Lo2ZgID6w">
+    <relationshipEnds xmi:id="_Ja1mIaOJEeuv3Lo2ZgID6w" name="R/3" description="" insertAction="RESTRICT" updateAction="RESTRICT" cardinality="ONE" entity="_Jam8oKOJEeuv3Lo2ZgID6w" key="_Jaox0aOJEeuv3Lo2ZgID6w"/>
+    <relationshipEnds xmi:id="_Ja1mIqOJEeuv3Lo2ZgID6w" name="" description="" verbPhrase="R/3" updateAction="RESTRICT" deleteAction="RESTRICT" cardinality="ZERO_TO_MANY" entity="_JalugKOJEeuv3Lo2ZgID6w" key="_JauRYKOJEeuv3Lo2ZgID6w"/>
+  </LogicalDataModel:Relationship>
+</xmi:XMI>

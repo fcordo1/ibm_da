@@ -77,6 +77,9 @@
             <children xsi:type="notation:Shape" xmi:id="__R0MIKLiEeuR--UlurV_cA" type="IEEntityNonKey" element="__Rdm0KLiEeuR--UlurV_cA" fontName="Segoe UI">
               <layoutConstraint xsi:type="notation:Bounds" xmi:id="__R0MIaLiEeuR--UlurV_cA"/>
             </children>
+            <children xsi:type="notation:Shape" xmi:id="_CtycYKLmEeuR--UlurV_cA" type="IEEntityNonKey" element="_CtndQKLmEeuR--UlurV_cA" fontName="Segoe UI">
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CtycYaLmEeuR--UlurV_cA"/>
+            </children>
             <styles xsi:type="datanotation:DataListCompartmentStyle" xmi:id="_tUS0eqBiEeuR--UlurV_cA" sortingKeys="Natural:Ascending"/>
           </children>
           <children xmi:id="_tUS0e6BiEeuR--UlurV_cA" visible="false" type="entity.ie.description.compartment">
@@ -140,7 +143,7 @@
   </LogicalDataModel:Package>
   <LogicalDataModel:Entity xmi:id="_at1FEKBhEeuR--UlurV_cA" name="FACT_VENTAS" package="_ZtH2AKBhEeuR--UlurV_cA" relationshipEnds="_Aw1ssqBjEeuR--UlurV_cA" relationships="_Aw1ssKBjEeuR--UlurV_cA">
     <attributes xmi:id="_j3weAKBhEeuR--UlurV_cA" name="FECHA" dataType="DATE"/>
-    <attributes xmi:id="_mO-0EKBhEeuR--UlurV_cA" name="ID_COMPRADOR" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_mO-0EKBhEeuR--UlurV_cA" name="ID_COMPRADOR" dataType="VARCHAR(10)" required="true"/>
     <attributes xmi:id="_GbhNAKBiEeuR--UlurV_cA" name="ID_VENDEDOR" dataType="INTEGER"/>
     <attributes xmi:id="_QV2vMKBiEeuR--UlurV_cA" name="ID_ARTICULO" dataType="VARCHAR(50)"/>
     <attributes xmi:id="_coFV0KBiEeuR--UlurV_cA" name="PRECIO_UNITARIO" dataType="DECIMAL(10,3)"/>
@@ -150,13 +153,14 @@
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_KWEhkKBjEeuR--UlurV_cA" name="FACT_VENTAS_PK" attributes="_mO-0EKBhEeuR--UlurV_cA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Entity xmi:id="_tUS0cKBiEeuR--UlurV_cA" name="DIM_COMPRADORES" package="_ZtH2AKBhEeuR--UlurV_cA" relationshipEnds="_Aw1ssaBjEeuR--UlurV_cA">
-    <attributes xmi:id="_1YDPgKBiEeuR--UlurV_cA" name="ID_COMPRADOR" dataType="INTEGER" required="true"/>
+    <attributes xmi:id="_1YDPgKBiEeuR--UlurV_cA" name="ID_COMPRADOR" dataType="VARCHAR(10)" required="true"/>
     <attributes xmi:id="_MdkZkKBjEeuR--UlurV_cA" name="NOMBRE" dataType="VARCHAR(40)"/>
     <attributes xmi:id="_Qsxk8KBjEeuR--UlurV_cA" name="APELLIDO" dataType="VARCHAR(40)"/>
     <attributes xmi:id="_WAkZ0KBjEeuR--UlurV_cA" name="DNI" dataType="INTEGER" required="true"/>
     <attributes xmi:id="_eH2qAKBjEeuR--UlurV_cA" name="RAZON_SOCIAL" dataType="VARCHAR(40)"/>
     <attributes xmi:id="_WSmEUKLcEeuR--UlurV_cA" name="CUIT" dataType="INTEGER"/>
     <attributes xmi:id="__Rdm0KLiEeuR--UlurV_cA" name="FECHA_ALTA" dataType="DATE"/>
+    <attributes xmi:id="_CtndQKLmEeuR--UlurV_cA" name="FECHA_BAJA" dataType="DATE"/>
     <keys xsi:type="LogicalDataModel:PrimaryKey" xmi:id="_EW3YMKBjEeuR--UlurV_cA" name="DIM_COMPRADORES_PK" attributes="_1YDPgKBiEeuR--UlurV_cA" relationshipEnds="_Aw1ssaBjEeuR--UlurV_cA"/>
   </LogicalDataModel:Entity>
   <LogicalDataModel:Relationship xmi:id="_Aw1ssKBjEeuR--UlurV_cA" name="FACT_VENTAS_DIM_COMPRADORES_FK" owningEntity="_at1FEKBhEeuR--UlurV_cA">
